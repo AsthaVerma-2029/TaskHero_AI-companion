@@ -1,0 +1,6 @@
+{
+  "name": "TaskHero",
+  "description": "An AI-powered productivity companion that proactively assists in planning, prioritizing, and executing tasks synced with Google Workspace, featuring an AI voice assistant, habits, and goal tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
